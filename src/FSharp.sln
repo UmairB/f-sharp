@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Jumpstart", "FSharp.Jumpstart\FSharp.Jumpstart.fsproj", "{AE95E847-8A8A-486E-B494-1889ADEFE81E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.FunctionalDataStructures", "FSharp.FunctionalDataStructures\FSharp.FunctionalDataStructures.fsproj", "{D6095111-24DE-4BF7-8BF2-ED77E80123DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking.Api.Host", "Booking.Api.Host\Booking.Api.Host.csproj", "{9B7337B2-257B-406D-87AC-F3F7C7918EC8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Booking.Api", "Booking.Api\Booking.Api.fsproj", "{7F7ED494-C869-4326-A9F3-9DA1129ACBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE95E847-8A8A-486E-B494-1889ADEFE81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE95E847-8A8A-486E-B494-1889ADEFE81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE95E847-8A8A-486E-B494-1889ADEFE81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE95E847-8A8A-486E-B494-1889ADEFE81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6095111-24DE-4BF7-8BF2-ED77E80123DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6095111-24DE-4BF7-8BF2-ED77E80123DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6095111-24DE-4BF7-8BF2-ED77E80123DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6095111-24DE-4BF7-8BF2-ED77E80123DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7337B2-257B-406D-87AC-F3F7C7918EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7337B2-257B-406D-87AC-F3F7C7918EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7337B2-257B-406D-87AC-F3F7C7918EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7337B2-257B-406D-87AC-F3F7C7918EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7ED494-C869-4326-A9F3-9DA1129ACBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7ED494-C869-4326-A9F3-9DA1129ACBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7ED494-C869-4326-A9F3-9DA1129ACBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7ED494-C869-4326-A9F3-9DA1129ACBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
